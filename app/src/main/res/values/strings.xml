@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotificacionesPush</string>
+
+    <string name="news_image">News</string>
+    <string name="news_title">Title</string>
+    <string name="news_summary">Summary</string>
+    <string name="news_action">Enviar Notificación</string>
+
+</resources>
